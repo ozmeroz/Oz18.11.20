@@ -7,3 +7,5 @@ person1.show_details()
 print(person1.age_group())
 if 1==1:
     pass
+else:
+    pass
